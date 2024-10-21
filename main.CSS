@@ -28,7 +28,10 @@ header {
     opacity: 0.5;
     background-color: #000000;
 }
-
+.join{
+background-color:gray;
+border-radius:20px;
+}
 a,
 h1 {
     list-style-type: none;
