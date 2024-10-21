@@ -28,10 +28,7 @@ header {
     opacity: 0.5;
     background-color: #000000;
 }
-.join {
-background-color:#808080;
-border-radius:20px;
-}
+
 a,
 h1 {
     list-style-type: none;
@@ -40,6 +37,11 @@ h1 {
     color: #ffffff;
     text-align: left;
 
+}
+
+.join {
+    background-color: #808080;
+    border-radius: 20px;
 }
 
 li {
